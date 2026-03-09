@@ -42,8 +42,15 @@ The goal is to help teams choose the right platform **based on workload, operati
 - Databricks: Unity Catalog tables, MERGE logic, Bronze/Silver/Gold
 - Snowflake: Stages, structured warehouse tables, validation queries
 
-See `/screenshots`.
+See:
+docs/
+architecture explanations
 
+screenshots/
+platform evidence
+
+
+This repository focuses on **architecture comparison rather than tool tutorials**, showing how similar analytical workloads can be implemented across different modern data platforms.
 ---
 
 ## Author
