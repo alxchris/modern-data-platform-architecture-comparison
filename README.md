@@ -32,3 +32,11 @@ The repository compares three modern data platform approaches.
 ---
 
 # Repository Structure
+docs/
+architecture explanations
+
+screenshots/
+platform evidence
+
+
+This repository focuses on **architecture comparison rather than tool tutorials**, showing how similar analytical workloads can be implemented across different modern data platforms.
