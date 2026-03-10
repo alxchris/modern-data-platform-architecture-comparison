@@ -38,5 +38,24 @@ architecture explanations
 screenshots/
 platform evidence
 
+code/
+databricks
+fabric
+snowflake
 
 This repository focuses on **architecture comparison rather than tool tutorials**, showing how similar analytical workloads can be implemented across different modern data platforms.
+
+# Key Skills Demonstrated
+
+• Modern Data Platform Architecture  
+• Lakehouse vs Data Warehouse design  
+• Medallion architecture implementation  
+• SQL-based analytical modeling  
+• Data pipeline design  
+• Cross-platform data engineering patterns  
+
+Platforms covered:
+
+• Microsoft Fabric  
+• Databricks  
+• Snowflake
