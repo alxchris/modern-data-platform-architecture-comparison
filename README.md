@@ -29,8 +29,10 @@ The repository compares three modern data platform approaches.
 | Databricks | Medallion Architecture (Bronze → Silver → Gold) |
 | Snowflake | Cloud Data Warehouse |
 
----
+## Example Platform Architecture
 
+![Fabric Architecture](screenshots/fabric/fabric_architecture.png)
+---
 # Repository Structure
 docs/
 architecture explanations
